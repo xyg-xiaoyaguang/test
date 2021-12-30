@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Library;
+namespace src\Library;
 
-class Loader{
+class test{
 
   public function index(){
     echo "hello world!";
