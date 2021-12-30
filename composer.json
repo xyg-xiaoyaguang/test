@@ -1,0 +1,15 @@
+{
+    "name": "xyg/test",
+    "autoload": {
+        "psr-4": {
+            "Xyg\\Test\\": "src/Test/Library"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaguang.xiao",
+            "email": "yaguang.xiao@tarsocial.com"
+        }
+    ],
+    "require": {}
+}
