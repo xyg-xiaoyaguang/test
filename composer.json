@@ -2,7 +2,7 @@
     "name": "xyg/test",
     "autoload": {
         "psr-4": {
-            "Library\\": "src/Library"
+            "Test\\Library\\": "src/Test/Library"
         }
     },
     "authors": [
